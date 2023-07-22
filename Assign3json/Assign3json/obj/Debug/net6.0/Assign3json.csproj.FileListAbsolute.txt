@@ -1,0 +1,17 @@
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.csproj.AssemblyReference.cache
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.AssemblyInfoInputs.cache
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.AssemblyInfo.cs
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.csproj.CoreCompileInputs.cache
+C:\Users\satya\Downloads\Assign3json\Assign3json\bin\Debug\net6.0\Assign3json.exe
+C:\Users\satya\Downloads\Assign3json\Assign3json\bin\Debug\net6.0\Assign3json.deps.json
+C:\Users\satya\Downloads\Assign3json\Assign3json\bin\Debug\net6.0\Assign3json.runtimeconfig.json
+C:\Users\satya\Downloads\Assign3json\Assign3json\bin\Debug\net6.0\Assign3json.dll
+C:\Users\satya\Downloads\Assign3json\Assign3json\bin\Debug\net6.0\Assign3json.pdb
+C:\Users\satya\Downloads\Assign3json\Assign3json\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.csproj.CopyComplete
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.dll
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\refint\Assign3json.dll
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.pdb
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\Assign3json.genruntimeconfig.cache
+C:\Users\satya\Downloads\Assign3json\Assign3json\obj\Debug\net6.0\ref\Assign3json.dll
